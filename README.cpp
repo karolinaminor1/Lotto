@@ -1,12 +1,14 @@
 # Lotto
 
+//# Lotto
+/*
 Obliczanie statystyk losowanych liczb z zakladow Lotto
 W pliku we sa po gwiazdce nazwisko i imie gracza litera plci,
 potem konto bankowe (SWIFT), potem godzina i data zawarcia zakladu i numer pesel.
 Od nowej linii sa zaklady
 
 
-====================== fragment pliku wejsciowego:  ========================
+//====================== fragment pliku wejsciowego:  ========================
 *Banaszak   Lolita  f    BPHKPLPKXXX   PL61123400110011000012300678  12:34   16/12/2016 01234567890
  1 10 23 30 38  47 
  9 24 26 33 40  48 
@@ -90,4 +92,5 @@ int ReadData( Player*** pAllPalyers, const char* sFileName )
   //zamkniecie pliku
   return ilosc_wczytanych_danych;
 }
-//--------------------------------------
+-------------------------------------- */
+
